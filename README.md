@@ -83,6 +83,7 @@ A performance dos algoritmos de classificação sobre os dados de validação fi
 
 ## 6.3 Ensaio de Agrupamento   (Clusters )
 K-means             : 0.2305
+
 Affinity Propagation: 0.2022
 
 # 7. Conclusões
