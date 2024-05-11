@@ -71,15 +71,15 @@ A performance dos algoritmos de classificação sobre os dados de validação fi
 # 6. Resultados
 ## 6.1 Ensaio de Classificação ( Classification )
 
-![alt text](image.png)
+![Resultados da classificação](/Imagem/image.png)
 
 ## 6.2 Ensaio de Regressão     ( Regression )
 ### Parte I
-![alt text](image-1.png)
+![Resultados da regressão Parte I](/Imagem/image-1.png)
 ### Parte II
-![alt text](image-2.png)
+![Resultados da regressão Parte II](/Imagem/image-2.png)
 ### Parte III
-![alt text](image-3.png)
+![Resultados da regressão Parte III](/Imagem/image-3.png)
 
 ## 6.3 Ensaio de Agrupamento   (Clusters )
 K-means             : 0.2305
