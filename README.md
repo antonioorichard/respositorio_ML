@@ -32,7 +32,7 @@ Polinomial Regression Lasso, Polinomial Regression Ridge e Polinomial Regression
 **Métricas de performance**: Silhouette Score
 
 ## 3.3 Ferramentas utilizadas:
-1. Python **3.12.0** e Scikit-learn, matplotlib, pandas, time e numpy.
+Python **3.12.0** e Scikit-learn, matplotlib, pandas, time e numpy.
 
 # 4. Desenvolvimento
 ## 4.1 Estratégia da solução
